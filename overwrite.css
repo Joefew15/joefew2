@@ -1,0 +1,42 @@
+h1{
+    color: bisque;
+}
+h2{
+    color:bisque
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+}
+li{
+    font-family: 'Times New Roman', Times, serif;
+}
+a{font-family:'Times New Roman', Times, serif;
+color: darkslategrey;}
+p{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+}
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+}
+h5{
+    font-family: 'Times New Roman', Times, serif;
+    color: darkslategrey;
+}
+ol{
+    font-family: 'Times New Roman', Times, serif;
+    color:darkslategrey
+}
+body{
+    background-color: bisque;
+}
+.justify{
+    text-align: center;
+    border-style: double;
+    border-color: azure;
+    border-width: thick;
+}
